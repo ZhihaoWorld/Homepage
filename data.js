@@ -1,5 +1,5 @@
 export const bio = [
-    "Hello there, This is Vinay Somawat.",
+    "Hello there, this is Zhihao Yao.",
     `Experienced Frontend Software Engineer with a strong track record of successfully upgrading applications, optimizing performance, and delivering innovative solutions.`,
     `Eager to apply my technical expertise and in-depth
     product understanding to drive impactful contributions and exceed expectations in challenging projects.`,
@@ -213,33 +213,34 @@ export const experience = [
 
 export const education = [
     {
-        title: "B.Tech. in Computer Science and Engineering",
-        duration: "2016 - 2020",
-        subtitle: "National Institute of Technology, Warangal",
+        title: "Postdoc. in Computational Biology & Bioinformatics",
+        duration: "2023.02 - ",
+        subtitle: "Oslo University Hospital, Oslo, Norway",
         details: [],
-        tags: [
-            "Data Structures & Algorithms",
-            "Operating Systems",
-            "Database Management System",
-            "Computer Networks",
-            "Compiler Designing",
-            "Cloud Computing",
-        ],
+        tags: ["3D Chromatin Analysis", "Cancer Genomics", "R-loops", "Data Mining"],
         icon: "graduation-cap",
     },
     {
-        title: "Class 12th in Science and Mathematics",
-        duration: "",
-        subtitle: "Board of Secondary Education, Rajasthan",
+        title: "Ph.D. in Computational Mathematics",
+        duration: "2017.09 - 2022.06",
+        subtitle: "Wuhan University, Wuhan, China",
         details: [],
-        tags: ["Physics", "Chemistry", "Mathematics"],
+        tags: ["Cancer Evolution", "Machine Learning", "Mathematical Oncology", "Statistical Modeling"],
+        icon: "graduation-cap",
+    },
+    {
+        title: "B.S. in Applied Statistics",
+        duration: "2013.09 - 2017.06",
+        subtitle: "Nanjing University of Posts and Telecommunications, Nanjing, China",
+        details: [],
+        tags: ["Mathematical Analysis", "Statistical Modeling", "Probability Theory", "Mathematical Statistics"],
         icon: "book",
     },
 ];
 
 export const footer = [
     {
-        label: "Dev Profiles",
+        label: "Scholar Profiles",
         data: [
             {
                 text: "Stackoverflow",
@@ -247,7 +248,7 @@ export const footer = [
             },
             {
                 text: "GitHub",
-                link: "https://github.com/vinaysomawat",
+                link: "https://github.com/zhh-yao",
             },
             {
                 text: "LeetCode",
@@ -268,7 +269,7 @@ export const footer = [
             },
             {
                 text: "Clone this page",
-                link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+                link: "https://github.com/ZhihaoWorld/Homepage",
             },
         ],
     },
@@ -276,15 +277,15 @@ export const footer = [
         label: "Social Profiles",
         data: [
             {
-                text: "Linkedin",
+                text: "Instagram",
                 link: "https://www.linkedin.com/in/vinaysomawat/",
             },
             {
-                text: "Twitter",
+                text: "Facebook",
                 link: "https://twitter.com/thesigmakid",
             },
             {
-                text: "Buy me a coffee",
+                text: "WeChat",
                 link: "https://www.buymeacoffee.com/r194dME8y",
             },
         ],
