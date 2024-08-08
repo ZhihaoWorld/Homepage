@@ -1,9 +1,8 @@
 export const bio = [
-    "Hello there, this is Zhihao Yao.",
-    `Experienced Frontend Software Engineer with a strong track record of successfully upgrading applications, optimizing performance, and delivering innovative solutions.`,
-    `Eager to apply my technical expertise and in-depth
-    product understanding to drive impactful contributions and exceed expectations in challenging projects.`,
-    "Thanks for taking the time to learn a little about me!",
+    "Hello there, this is Zhihao Yao. Welcome to my planet!",
+    `I am a postdoctoral in bioinformatics, currently working in the group of Junbai Wang at Akershus University Hospital.`,
+    `My personal interest`,
+    "Thanks for taking the time to learn a little about me! Look forward to meeting you somewhere in the world!",
 ];
 
 export const skills = [
@@ -152,35 +151,12 @@ export const projects = {
 
 export const experience = [
     {
-        title: "Postdoc. in Bioinformatics",
+        title: "Postdoc. in Computational Biology & Bioinformatics",
         duration: "2023.02 - ",
-        subtitle: "Oslo University Hospital, Oslo, Norway",
+        subtitle: ""Oslo University Hospital and Akershus University Hospital, Lørenskog, Norway",
         details: [],
         tags: ["3D Chromatin Analysis", "Cancer Genomics", "R-loops", "Data Mining"],
         icon: "graduation-cap",
-    },
-    {
-        title: "Postdoc. in Computational Biology",
-        duration: "2023.02 - ",
-        subtitle: "Akershus University Hospital, Lørenskog, Norway",
-        details: [],
-        tags: ["3D Chromatin Analysis", "Cancer Genomics", "R-loops", "Data Mining"],
-        icon: "graduation-cap",
-    },
-    {
-        title: "Novopay Solutions Private Limited",
-        duration: "June 2020 - April 2022",
-        subtitle: "Software Engineer",
-        details: [
-            `Implemented AePS Services, including Bio-metric eKYC, Cash Withdrawal, Balance Enquiry, Mini-Statements,
-            and Money transfer.`,
-            `Implemented QR Code integration for retailer wallet money loading, Clevertap events for user action tracking,
-            Freshdesk ticketing, Chatbot services, and Retailer onboarding/admin interfaces.`,
-            `Developed retailer QR code system for seamless money loading into wallets, resulting in improved user transactions.`,
-            `Achieved 70 percent code coverage of the entire application by writing unit tests for legacy code.`,
-        ],
-        tags: ["JavaScript", "Angular", "Bootstrap", "Nodejs", "Jenkins"],
-        icon: "qrcode",
     },
 ];
 
@@ -190,7 +166,7 @@ export const education = [
         duration: "2019.09 - 2022.06",
         subtitle: "Wuhan University, Wuhan, China",
         details: [],
-        tags: ["Cancer Evolution", "Machine Learning", "Mathematical Oncology", "scRNA-seq"],
+        tags: ["Mathematical Oncology", "Cancer Evolution", "Multiscale Modeling", "scRNA-Seq"],
         icon: "graduation-cap",
     },
     {
@@ -216,16 +192,16 @@ export const footer = [
         label: "Scholar Profiles",
         data: [
             {
-                text: "Stackoverflow",
-                link: "https://stackoverflow.com/users/8461233/vinay-somawat",
+                text: "Google Scholar",
+                link: "https://scholar.google.com/citations?user=ag-tWywAAAAJ&hl=en",
             },
             {
                 text: "GitHub",
                 link: "https://github.com/zhh-yao",
             },
             {
-                text: "LeetCode",
-                link: "https://leetcode.com/somawatvinay/",
+                text: "ResearchGate",
+                link: "https://www.researchgate.net/profile/Yao-Zhihao",
             },
         ],
     },
@@ -251,11 +227,11 @@ export const footer = [
         data: [
             {
                 text: "Instagram",
-                link: "https://www.linkedin.com/in/vinaysomawat/",
+                link: "https://www.instagram.com/yyyyzhihao/",
             },
             {
                 text: "Facebook",
-                link: "https://twitter.com/thesigmakid",
+                link: "https://www.facebook.com/yyyyzhihao",
             },
             {
                 text: "WeChat",
