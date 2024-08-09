@@ -189,7 +189,7 @@ export const education = [
 
 export const footer = [
     {
-        label: "Scholar Profiles",
+        label: "Dev Profiles",
         data: [
             {
                 text: "Google Scholar",
